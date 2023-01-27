@@ -5,10 +5,10 @@ Code Refactor Project (Columbia wk 1)
 # Description
 
 # Installation
-
+N/A
 # Usage
 
 # Credits
 
 # License
-
+Please see the repo for license info
